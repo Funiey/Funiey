@@ -3,7 +3,8 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Funani+Maitakhole!✨✨+;+I'm+a+Full-Stack+Developer💻;" />
 </h1>
 
-<img src="https://github.com/Naledindhlovu/Naledindhlovu/assets/135599769/7bcf6d05-7cca-4569-a640-4219527bb6c8" alt="bryan-rodriguez-belchibia-1-rightspeed" align="right" width="200"/>
+<img src="https://github.com/Funiey/Funiey/assets/127227319/e1b6679f-8357-4bed-9a95-158be50f9bc6" alt="bryan-rodriguez-belchibia-1-rightspeed" align="right" width="200"/>
+
 
 - 👋 Hi, I’m Funani Maitakhole
 - 👀 I’m passionate about developing scalable and efficient software solutions
