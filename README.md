@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Funani Maitakhole
 - 👀 I’m passionate about developing scalable and efficient software solutions
-- 🌱 I'm currently working on creating a portfolio
+- 🌱 I'm currently learning python, java and exploring the world of AI and Machine Learning
 - 🤝I'm looking for help with Optimizing code for better performance
-- 🌱Currently, I'm learning python, java and exploring the world of AI and Machine Learning
 - 🎨 When I'm not coding, you can find me watching reality shows
 - ⚡ Fun fact: I love coffee and I have a growing collection of coffee mugs
 - 📫 You can reach me at maitafunani@gmail.com
