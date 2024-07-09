@@ -1,3 +1,8 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Naledi+Ndhlovu!;" />
+</h1>
+
 - 👋 Hi, I’m Funani Maitakhole
 - 👀 I’m passionate about developing scalable and efficient software solutions
 - 🌱 I'm currently learning python, java and exploring the world of AI and Machine Learning
